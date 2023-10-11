@@ -1,0 +1,51 @@
+pageid,ns,title,contentmodel,pagelanguage,pagelanguagehtmlcode,pagelanguagedir,touched,lastrevid,length,redirect,days_since_last_update
+36244326,0,ADvantage Framework,wikitext,en,en,ltr,2023-09-08 16:06:55+00:00,1031090225,6073,,32
+43003632,0,Anaconda (Python distribution),wikitext,en,en,ltr,2023-10-10 23:15:36+00:00,1172106083,14202,,0
+46590812,0,Borg (backup software),wikitext,en,en,ltr,2023-10-10 23:17:36+00:00,1159058759,5412,,0
+56391602,0,Breezy (software),wikitext,en,en,ltr,2023-10-10 23:23:01+00:00,1172736857,1704,,0
+46591042,0,Bup,wikitext,en,en,ltr,2023-10-10 23:17:36+00:00,1037085591,3476,,0
+36164746,0,Celery (software),wikitext,en,en,ltr,2023-10-10 23:11:02+00:00,1176689295,4816,,0
+2852798,0,CheetahTemplate,wikitext,en,en,ltr,2023-10-10 22:42:28+00:00,1169382100,2955,,0
+431614,0,CrossOver (software),wikitext,en,en,ltr,2023-10-10 22:37:12+00:00,1170861696,10902,,0
+46348793,0,Cubes (OLAP server),wikitext,en,en,ltr,2023-10-09 13:50:06+00:00,1164651603,8238,,1
+28959628,0,Cwm (software),wikitext,en,en,ltr,2023-08-17 08:29:31+00:00,1170801726,1452,,54
+8384084,0,Cyn.in,wikitext,en,en,ltr,2023-10-09 13:23:22+00:00,1172629881,12301,,1
+71925313,0,Data Version Control (software),wikitext,en,en,ltr,2023-10-09 14:06:17+00:00,1164652731,20906,,1
+53123871,0,Disordered Structure Refinement,wikitext,en,en,ltr,2023-10-09 13:54:14+00:00,1100327950,4198,,1
+5714264,0,EasyEclipse,wikitext,en,en,ltr,2023-10-11 02:58:45+00:00,1058098415,1646,,0
+343952,0,Epydoc,wikitext,en,en,ltr,2023-10-10 22:36:53+00:00,1140865921,1442,,0
+1810666,0,Eric (software),wikitext,en,en,ltr,2023-10-10 22:40:30+00:00,1099179670,15345,,0
+24374755,0,Fluidinfo,wikitext,en,en,ltr,2023-10-09 13:35:51+00:00,1147126141,11424,,1
+5966457,0,GNU Bazaar,wikitext,en,en,ltr,2023-10-10 22:46:41+00:00,1161634617,16518,,0
+8471397,0,Genshi (templating language),wikitext,en,en,ltr,2023-10-09 13:23:26+00:00,1159212045,5391,,1
+34445568,0,GlobaLeaks,wikitext,en,en,ltr,2023-10-10 23:09:59+00:00,1149295308,11533,,0
+18836690,0,Grok (web framework),wikitext,en,en,ltr,2023-10-10 22:58:20+00:00,1158925458,3114,,0
+10849171,0,IDLE,wikitext,en,en,ltr,2023-10-10 22:51:05+00:00,1167829672,4952,,0
+4218966,0,Jinja (template engine),wikitext,en,en,ltr,2023-10-09 13:18:44+00:00,1176548128,6809,,1
+33085168,0,Juju (software),wikitext,en,en,ltr,2023-10-10 23:09:03+00:00,1175685209,6219,,0
+34192383,0,Kippo,wikitext,en,en,ltr,2023-10-10 23:09:47+00:00,1154563665,1988,,0
+3673376,0,List of Python software,wikitext,en,en,ltr,2023-10-10 22:43:47+00:00,1177737244,33358,,0
+4432006,0,Molecular Modelling Toolkit,wikitext,en,en,ltr,2023-10-10 22:44:47+00:00,1171068135,3794,,0
+54253065,0,NOC (software),wikitext,en,en,ltr,2023-10-10 23:22:02+00:00,1142023743,2962,,0
+23196009,0,Naaya,wikitext,en,en,ltr,2023-10-09 13:34:57+00:00,979634986,4038,,1
+30722935,0,Nagare (web framework),wikitext,en,en,ltr,2023-10-10 23:07:25+00:00,1123783047,2527,,0
+31354866,0,Ninja-IDE,wikitext,en,en,ltr,2023-10-09 13:40:09+00:00,979635005,4294,,1
+401135,0,Nmap,wikitext,en,en,ltr,2023-10-09 13:10:58+00:00,1177756481,24505,,1
+42369403,0,PLY (software),wikitext,en,en,ltr,2023-10-10 18:25:59+00:00,1171760733,1997,,0
+34292335,0,Pip (package manager),wikitext,en,en,ltr,2023-10-10 23:09:52+00:00,1161551744,8872,,0
+1561564,0,Psyco,wikitext,en,en,ltr,2023-10-10 22:39:58+00:00,1129702643,5476,,0
+21727049,0,Py2exe,wikitext,en,en,ltr,2023-10-10 23:00:45+00:00,1122876537,2402,,0
+3761499,0,PyMPI,wikitext,en,en,ltr,2023-10-09 13:18:07+00:00,979635058,1027,,1
+2564605,0,PyPy,wikitext,en,en,ltr,2023-10-10 22:41:58+00:00,1179144348,16918,,0
+30714017,0,PyScripter,wikitext,en,en,ltr,2023-10-10 23:07:24+00:00,1171630732,4101,,0
+31435858,0,Pylons (web framework),wikitext,en,en,ltr,2023-09-15 15:39:22+00:00,979635043,299,,25
+36748559,0,Pylons Framework,wikitext,en,en,ltr,2023-09-15 15:39:35+00:00,979635052,299,,25
+36723720,0,Pylons project,wikitext,en,en,ltr,2023-10-10 23:11:31+00:00,1136392139,12725,,0
+45245227,0,Pyomo,wikitext,en,en,ltr,2023-10-10 23:17:03+00:00,1115692627,7279,,0
+28929354,0,Pyramid (web framework),wikitext,en,en,ltr,2023-09-15 15:39:17+00:00,979635070,384,,25
+45710990,0,Pyspread,wikitext,en,en,ltr,2023-10-10 23:17:20+00:00,1175627348,5304,,0
+37219580,0,Python SCOOP (software),wikitext,en,en,ltr,2023-10-09 13:43:58+00:00,1081201810,4263,,1
+32910103,0,Python Tools for Visual Studio,wikitext,en,en,ltr,2023-10-10 23:08:55+00:00,1123803790,2174,,0
+57090143,0,Revoscalepy,wikitext,en,en,ltr,2023-10-10 23:23:23+00:00,1034360707,3414,,0
+10567064,0,Roundup (issue tracker),wikitext,en,en,ltr,2023-10-10 22:50:54+00:00,1165127483,7482,,0
+5257783,0,SLIM,wikitext,en,en,ltr,2023-09-24 18:21:00+00:00,1171906725,1309,,16
